@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 export UUID=${UUID:-'54b83b89-9548-4db1-b218-4ab85dbaa090'}
-export NEZHA_SERVER=${NEZHA_SERVER:-'data.vps-jdkz.tk'}
-export NEZHA_PORT=${NEZHA_PORT:-'443'} # 当端口为443时自动开启tls
-export NEZHA_KEY=${NEZHA_KEY:-'C8um76Wlj7bsJi95vG'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'4everland1.freeargo.eu.org'}
-export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"ab4f40b785bcd6d158946fd920b2c66c","TunnelSecret":"qhRmq02trRkYQJSKNUH6z8FCXqPK3hTqJTN5asaqhh0=","TunnelID":"42fb6bc9-f895-4e8e-bbe5-f72e7a1e4292"}'}
+export NEZHA_SERVER=${NEZHA_SERVER:-'konz.kunei.eu.org'}
+export NEZHA_PORT=${NEZHA_PORT:-'443'}
+export NEZHA_KEY=${NEZHA_KEY:-'zgXtGfCYru6lGqH0qW'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'444.fxingaaa.tk'}
+export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiMjM4ZDQ4NWJhMzJmOTE2NGY1MmVkYWE3Yjk4NWY3YzQiLCJ0IjoiMjNlYzhjNjctNDZhMy00NjMyLTg0NTYtODc0NzZlNWExZWUyIiwicyI6Ik9HUTBNVGt6TWpZdFpEWTNZeTAwTWpNM0xUZ3hZell0WW1RelpHRTRPVE13WXpVeCJ9'}
 export CFIP=${CFIP:-'skk.moe'}
 export NAME=${NAME:-'Saclingo'}
 
